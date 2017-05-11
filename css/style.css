@@ -1,0 +1,102 @@
+/*section {
+  min-height: 50vh;
+}
+
+h1  {
+  display: inline-block;
+}
+
+h5 {
+  text-align: center;
+  background-color: #F7E48F
+}
+
+h6  {
+  text-align: center;
+  background-color: #201D1D
+}
+
+#about {
+  background: red;
+}
+
+#projects {
+  background: yellow;
+}
+
+#contact {
+  background: pink;
+}
+
+#russianspacepencils {
+  background: green;
+}
+
+#method {
+  background: grey;
+}
+
+#snobro {
+  background: purple;
+}
+
+#GrowingGardenSupplies {
+  background: brown;
+}
+
+#MarriottHotels {
+  background: grey;
+}*/
+
+.navbar-default {
+  background: white;
+  border-color: white;
+}
+
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+header svg {
+  max-height: 70px;
+  position: absolute;
+}
+
+header h5, header h6 {
+  margin: 0;
+  line-height: 40px;
+}
+
+header h5 {
+  background-color: #F7E48F;
+}
+
+header h6 {
+  background-color: #201D1D;
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  text-align: center;
+  font-family: 'Khula', sans-serif;
+}
+
+.navbar-collapse {
+  text-align: center;
+}
+
+header .navbar-nav {
+  display: inline-block;
+  float: none;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  padding-left: 40px;
+  padding-right: 40px;
+}
